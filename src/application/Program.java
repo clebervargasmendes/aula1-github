@@ -10,6 +10,9 @@ public class Program {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("O programa faz a conversao entre Farenheit e Celsius!");
+		System.out.println();
 
 		double C, F;
 		char resp;
