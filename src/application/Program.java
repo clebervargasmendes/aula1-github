@@ -7,6 +7,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		// Aula inicial de Git Github com estrutura do While
+		// Teste de clone e push
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
